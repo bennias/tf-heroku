@@ -11,5 +11,5 @@ variable "heroku_app_buildpacks" {
 variable "heroku_dev_db" {}
 variable "heroku_stage_db" {}
 variable "heroku_prod_db" {}
-
-
+variable "aws_access_key" {}
+variable "aws_secret_key" {}

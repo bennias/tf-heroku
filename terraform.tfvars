@@ -11,3 +11,5 @@ heroku_prod_db = "heroku-postresql:hobby-basic"
 heroku_app_buildpacks = [
     "heroku/go",
 ]
+aws_access_key = ""
+aws_secret_key = ""
